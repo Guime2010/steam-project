@@ -1,0 +1,28 @@
+body{
+    background-color: black;
+    color: rgb(134, 9, 237);
+    text-align: center;
+}
+img{
+    width: 400px;
+    margin-top: 20px;
+    
+}
+p{
+    font-size: 20px;
+    margin-top: 10px;
+}
+#minhanavbar{
+    position: fixed;
+    background-color: blueviolet;
+    margin-bottom: 10px;
+    top: 0;
+    width: 100%;
+}
+.menu li a{
+    color: rgb(47, 49, 57);
+    font-size: 15px;
+}
+.titulo{
+ margin-top: 60px
+}
