@@ -1,7 +1,7 @@
 body{
-    background-color: black;
-    color: rgb(134, 9, 237);
+    color: rgb(0, 242, 20);
     text-align: center;
+    background: black;
 }
 img{
     width: 400px;
@@ -14,7 +14,7 @@ p{
 }
 #minhanavbar{
     position: fixed;
-    background-color: blueviolet;
+    background-color: yellowgreen;
     margin-bottom: 10px;
     top: 0;
     width: 100%;
